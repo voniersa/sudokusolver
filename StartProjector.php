@@ -65,7 +65,7 @@ class StartProjector
         }
         $htmlTable = str_replace('%textbox2%', '', $htmlTable);
         $htmlTable = str_replace('%next2%', '', $htmlTable);
-        $htmlTable = str_replace('<INPUT type="submit" name="submit" value="Soduku lösen">', '', $htmlTable);
+        $htmlTable = str_replace('<INPUT type="submit" name="submit" value="Solve Sudoku">', '', $htmlTable);
 
         $j = 2;
         for($i = 1; $i < 82; $i++)

@@ -5,10 +5,10 @@ A PHP-Algorithm for solving a 3x3-Sudoku
 The class reads the user-inputs from the Sudoku-interface.
 
 ### BoxChecker
-The class RowChecker checks for differences of the content from the individually boxes.
+The class BoxChecker checks for differences of the content from the individually boxes.
 
 ### ColumnChecker
-The class RowChecker checks for differences of the content from the individually columns.
+The class Columnhecker checks for differences of the content from the individually columns.
 
 ### RowChecker
 The class RowChecker checks for differences of the content from the individually rows.

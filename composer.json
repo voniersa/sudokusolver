@@ -1,0 +1,9 @@
+{
+  "name": "flyeralarm oopIntroduction",
+  "description": "Sudoku Version5",
+  "autoload": {
+    "classmap": [""]
+    },
+    "require": {},
+    "require-dev": {}
+}

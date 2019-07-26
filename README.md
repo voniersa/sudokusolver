@@ -1,8 +1,6 @@
 # Sudoku-Solver by Sascha Vonier
 A PHP-Algorithm for solving a 3x3-Sudoku
 
-![SudokuSolverInterface](https://github.com/voniersa/T2_1000/blob/master/images/sudokusolvertemplate.png)
-
 ### Reader
 The class reads the user-inputs from the Sudoku-interface.
 

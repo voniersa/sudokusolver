@@ -14,7 +14,7 @@ The class ColumnChecker checks for differences of the content from the individua
 The class RowChecker checks for differences of the content from the individually rows.
 
 ### StartPage
-The StartPage solves the Sudoku.
+The StartPage solves the Sudoku with a backtracking-algorithm.
 
 ### StartProjector
 The StartProjector builds the html-Template.

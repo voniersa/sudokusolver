@@ -1,6 +1,12 @@
 # Sudoku-Solver by Sascha Vonier
 A PHP-Algorithm for solving a 9x9-Sudoku
 
+### Use the sudoku solver:
+First implement this repository into your webserver root directory. Then navigate to public/index.php
+
+**Demo of this sudoku solver:**
+[voniersa.com/sudokusolver](https://voniersa.com/sudokusolver)
+
 ### Reader
 The class reads the user-inputs from the Sudoku-interface.
 

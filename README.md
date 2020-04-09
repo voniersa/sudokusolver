@@ -1,5 +1,5 @@
 # Sudoku-Solver by Sascha Vonier
-A PHP-Algorithm for solving a 3x3-Sudoku
+A PHP-Algorithm for solving a 9x9-Sudoku
 
 ### Reader
 The class reads the user-inputs from the Sudoku-interface.
@@ -17,4 +17,4 @@ The class RowChecker checks for differences of the content from the individually
 The StartPage solves the Sudoku with a backtracking-algorithm.
 
 ### StartProjector
-The StartProjector builds the html-Template.
+The StartProjector supplements the html-Template.

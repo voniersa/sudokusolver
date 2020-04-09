@@ -2,7 +2,7 @@
   "name": "flyeralarm oopIntroduction",
   "description": "Sudoku Version5",
   "autoload": {
-    "classmap": [""]
+    "classmap": ["src/"]
     },
     "require": {},
     "require-dev": {}

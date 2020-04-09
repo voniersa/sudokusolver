@@ -7,19 +7,16 @@ namespace Composer\Autoload;
 class ComposerStaticInita392d0e63266c9c424e055cac3aa6b46
 {
     public static $classMap = array (
-        'ComposerAutoloaderInita392d0e63266c9c424e055cac3aa6b46' => __DIR__ . '/..' . '/composer/autoload_real.php',
-        'Composer\\Autoload\\ClassLoader' => __DIR__ . '/..' . '/composer/ClassLoader.php',
-        'Composer\\Autoload\\ComposerStaticInita392d0e63266c9c424e055cac3aa6b46' => __DIR__ . '/..' . '/composer/autoload_static.php',
-        'flyeralarm\\sudokuV5\\Application' => __DIR__ . '/../..' . '/Application.php',
-        'flyeralarm\\sudokuV5\\BoxChecker' => __DIR__ . '/../..' . '/BoxChecker.php',
-        'flyeralarm\\sudokuV5\\ColumnChecker' => __DIR__ . '/../..' . '/ColumnChecker.php',
-        'flyeralarm\\sudokuV5\\Factory' => __DIR__ . '/../..' . '/Factory.php',
-        'flyeralarm\\sudokuV5\\Page' => __DIR__ . '/../..' . '/Page.php',
-        'flyeralarm\\sudokuV5\\Reader' => __DIR__ . '/../..' . '/Reader.php',
-        'flyeralarm\\sudokuV5\\Router' => __DIR__ . '/../..' . '/Router.php',
-        'flyeralarm\\sudokuV5\\RowChecker' => __DIR__ . '/../..' . '/RowChecker.php',
-        'flyeralarm\\sudokuV5\\StartPage' => __DIR__ . '/../..' . '/StartPage.php',
-        'flyeralarm\\sudokuV5\\StartProjector' => __DIR__ . '/../..' . '/StartProjector.php',
+        'flyeralarm\\sudokuV5\\Application' => __DIR__ . '/../..' . '/src/Application.php',
+        'flyeralarm\\sudokuV5\\BoxChecker' => __DIR__ . '/../..' . '/src/BoxChecker.php',
+        'flyeralarm\\sudokuV5\\ColumnChecker' => __DIR__ . '/../..' . '/src/ColumnChecker.php',
+        'flyeralarm\\sudokuV5\\Factory' => __DIR__ . '/../..' . '/src/Factory.php',
+        'flyeralarm\\sudokuV5\\Page' => __DIR__ . '/../..' . '/src/Page.php',
+        'flyeralarm\\sudokuV5\\Reader' => __DIR__ . '/../..' . '/src/Reader.php',
+        'flyeralarm\\sudokuV5\\Router' => __DIR__ . '/../..' . '/src/Router.php',
+        'flyeralarm\\sudokuV5\\RowChecker' => __DIR__ . '/../..' . '/src/RowChecker.php',
+        'flyeralarm\\sudokuV5\\StartPage' => __DIR__ . '/../..' . '/src/StartPage.php',
+        'flyeralarm\\sudokuV5\\StartProjector' => __DIR__ . '/../..' . '/src/StartProjector.php',
     );
 
     public static function getInitializer(ClassLoader $loader)
